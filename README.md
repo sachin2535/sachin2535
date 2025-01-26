@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋 Good day! </h1>
-<h2 align="left">This is Sachin Chetti and I am working as Senior Software Engineer at Walmart </h2>
+<h2 align="left">I am Sachin Chetti and currently working as Senior Software Engineer at Walmart </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin2535&label=Profile%20views&color=0e75b6&style=flat" alt="sachin2535" /> </p>
 
